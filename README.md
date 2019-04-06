@@ -1,7 +1,9 @@
 #FireFiles
 
-FireFiles se dedica a hacer api para los dessaolladores de bots para discord
 
+Tenemos un discord para dudas y actualizaciones : https://discord.gg/6DJxrSZ
+
+FireFiles se dedica a hacer api para los dessaolladores de bots para discord
 
 Y correspondemos por el momento con dos endpoint smoke y hug
 
