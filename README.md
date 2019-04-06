@@ -6,6 +6,7 @@ FireFiles se dedica a hacer api para los dessaolladores de bots para discord
 Y correspondemos por el momento con dos endpoint smoke y hug
 
 https://firefiles.herokuapp.com/hug
+
 https://firefiles.herokuapp.com/smoke
 
 Y como usarlo aqui un simple ejemplo:
