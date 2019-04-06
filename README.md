@@ -54,7 +54,7 @@ En simple :
 
  
 
-// Nada mas te queda hacer un if y lo tienes 
+ Nada mas te queda hacer un if y lo tienes 
 
 
 
