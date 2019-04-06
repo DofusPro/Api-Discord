@@ -47,9 +47,9 @@ En simple :
     let link = body.url
     const embed = new Discord.RichEmbed()
       .setAuthor(message.author.username, message.author.avatarURL)
-      .setColor(0xffec00)
+      .setColor("RANDOM")
       .setImage(link)
-      .setFooter("Powered by: Dofus")
+      .setFooter("Powered by: FireFiles")
      .setTimestamp()
     message.channel.send(embed)
 ```
