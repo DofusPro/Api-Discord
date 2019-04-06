@@ -38,7 +38,7 @@ module.exports.help = {
 
 En simple :
 
-
+```js
  const superagent = require("superagent"); // Modulo para hacer funcionar las imagenes
  let { body } = await superagent.get("https://firefiles.herokuapp.com/smoke")// Con el modulo superagent hacemos que mande la imagen
     let link = body.url
@@ -49,7 +49,7 @@ En simple :
       .setFooter("Powered by: Dofus")
      .setTimestamp()
     message.channel.send(embed)
-
+```
 
  
 }
